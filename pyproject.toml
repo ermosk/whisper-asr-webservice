@@ -52,7 +52,7 @@ priority = "explicit"
 
 [[tool.poetry.source]]
 name = "pytorch-cuda"
-url = "https://download.pytorch.org/whl/cu126"
+url = "https://download.pytorch.org/whl/cu129"
 priority = "explicit"
 
 [tool.poetry.dependencies]
